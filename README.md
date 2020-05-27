@@ -1,7 +1,12 @@
-# Capstone-project
+This repo will be mainly used for the capstone project for IBM Applied Data Science Capstone course on Coursera.
 
-A Jupyter Notebook lab for IBM Data Science Professional Certificate's project
+This capstone project has been submitted in May 2020 as part of the requirements for completion of the IBM Data Science Professional Certificate on Coursera.
 
-The project is mainly focused on finding out the best possible ways to invest money around Egypt's new megaproject, the Grand Egyptian Museum (GEM).
+Full Report
+File name: final-report(week 5).pdf
 
-The project includes the utilization of web scraping techniques using BeautifulSoup, fetching location data via Geopy, getting venue data via Foursquare API, and cluster analysis using k-means algorithm in order to group mueseums with the same demographic of venues around.
+Presentation Slides
+File name: final-presentation(week 5).pdf
+
+Jupyter Notebook
+File name: Capstone-Project(week 5).ipynb
